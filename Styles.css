@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-size: 100%;
+}
+
+h1 {
+background-color: rgb(255, 255, 255);
+display:inline;
+}
+
+a, a:link {
+  color: blue;
+}
+a:hover {
+  color: red;
+}
+
+h2  {
+  font-size: 250%;
+  background-color: rgb(255, 255, 255);
+  display:inline;
+}
